@@ -1,0 +1,14 @@
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\bin\Debug\net8.0\EmployeeDatabase.exe
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\bin\Debug\net8.0\EmployeeDatabase.deps.json
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\bin\Debug\net8.0\EmployeeDatabase.runtimeconfig.json
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\bin\Debug\net8.0\EmployeeDatabase.dll
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\bin\Debug\net8.0\EmployeeDatabase.pdb
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.AssemblyInfoInputs.cache
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.AssemblyInfo.cs
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.csproj.CoreCompileInputs.cache
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.dll
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\obj\Debug\net8.0\refint\EmployeeDatabase.dll
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.pdb
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.genruntimeconfig.cache
+C:\Users\amera\source\repos\Day4\EmployeeDatabase\obj\Debug\net8.0\ref\EmployeeDatabase.dll

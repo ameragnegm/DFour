@@ -1,0 +1,14 @@
+C:\Users\amera\source\repos\Day4\studentsgrades\bin\Debug\net8.0\studentsgrades.exe
+C:\Users\amera\source\repos\Day4\studentsgrades\bin\Debug\net8.0\studentsgrades.deps.json
+C:\Users\amera\source\repos\Day4\studentsgrades\bin\Debug\net8.0\studentsgrades.runtimeconfig.json
+C:\Users\amera\source\repos\Day4\studentsgrades\bin\Debug\net8.0\studentsgrades.dll
+C:\Users\amera\source\repos\Day4\studentsgrades\bin\Debug\net8.0\studentsgrades.pdb
+C:\Users\amera\source\repos\Day4\studentsgrades\obj\Debug\net8.0\studentsgrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amera\source\repos\Day4\studentsgrades\obj\Debug\net8.0\studentsgrades.AssemblyInfoInputs.cache
+C:\Users\amera\source\repos\Day4\studentsgrades\obj\Debug\net8.0\studentsgrades.AssemblyInfo.cs
+C:\Users\amera\source\repos\Day4\studentsgrades\obj\Debug\net8.0\studentsgrades.csproj.CoreCompileInputs.cache
+C:\Users\amera\source\repos\Day4\studentsgrades\obj\Debug\net8.0\studentsgrades.dll
+C:\Users\amera\source\repos\Day4\studentsgrades\obj\Debug\net8.0\refint\studentsgrades.dll
+C:\Users\amera\source\repos\Day4\studentsgrades\obj\Debug\net8.0\studentsgrades.pdb
+C:\Users\amera\source\repos\Day4\studentsgrades\obj\Debug\net8.0\studentsgrades.genruntimeconfig.cache
+C:\Users\amera\source\repos\Day4\studentsgrades\obj\Debug\net8.0\ref\studentsgrades.dll

@@ -1,0 +1,14 @@
+C:\Users\amera\source\repos\Day4\Bookinfo\bin\Debug\net8.0\Bookinfo.exe
+C:\Users\amera\source\repos\Day4\Bookinfo\bin\Debug\net8.0\Bookinfo.deps.json
+C:\Users\amera\source\repos\Day4\Bookinfo\bin\Debug\net8.0\Bookinfo.runtimeconfig.json
+C:\Users\amera\source\repos\Day4\Bookinfo\bin\Debug\net8.0\Bookinfo.dll
+C:\Users\amera\source\repos\Day4\Bookinfo\bin\Debug\net8.0\Bookinfo.pdb
+C:\Users\amera\source\repos\Day4\Bookinfo\obj\Debug\net8.0\Bookinfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amera\source\repos\Day4\Bookinfo\obj\Debug\net8.0\Bookinfo.AssemblyInfoInputs.cache
+C:\Users\amera\source\repos\Day4\Bookinfo\obj\Debug\net8.0\Bookinfo.AssemblyInfo.cs
+C:\Users\amera\source\repos\Day4\Bookinfo\obj\Debug\net8.0\Bookinfo.csproj.CoreCompileInputs.cache
+C:\Users\amera\source\repos\Day4\Bookinfo\obj\Debug\net8.0\Bookinfo.dll
+C:\Users\amera\source\repos\Day4\Bookinfo\obj\Debug\net8.0\refint\Bookinfo.dll
+C:\Users\amera\source\repos\Day4\Bookinfo\obj\Debug\net8.0\Bookinfo.pdb
+C:\Users\amera\source\repos\Day4\Bookinfo\obj\Debug\net8.0\Bookinfo.genruntimeconfig.cache
+C:\Users\amera\source\repos\Day4\Bookinfo\obj\Debug\net8.0\ref\Bookinfo.dll
